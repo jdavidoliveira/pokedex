@@ -6,4 +6,4 @@ Uma pokedex web feita utilizando a pokeAPI
 - CSS
 - JavaScript
 
-<a href="https://lordaval.github.io/pokedex/index;html">Acesse aqui!</a>
+<a href="https://lordaval.github.io/pokedex">Acesse aqui!</a>
