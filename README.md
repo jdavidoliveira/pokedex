@@ -1,5 +1,6 @@
 # Web Pokedex
-Uma pokedex web feita utilizando a pokeAPI
+Uma Web Pokedex feita para fins de aprendizado.
+É um projeto para treinar o consumo de api's
 
 ## 🔧 Tecnologias utilizadas
 - HTML
