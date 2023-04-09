@@ -40,6 +40,6 @@ loadMoreButton.addEventListener('click', () => {
         alert("Limite alcançado!")
         loadMoreButton.parentElement.removeChild(loadMoreButton)
     } else {
-        loadPokemonItens(offset, limit)
+        loadPokemonItems(offset, limit)
     }
 })
