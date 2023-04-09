@@ -36,7 +36,7 @@ loadMoreButton.addEventListener('click', () => {
 
     if (qtdRecordsWithNexPage >= maxRecords) {
         const newLimit = maxRecords - offset
-        loadPokemonItens(offset, newLimit)
+        loadPokemonItems(offset, newLimit)
         alert("Limite alcançado!")
         loadMoreButton.parentElement.removeChild(loadMoreButton)
     } else {
