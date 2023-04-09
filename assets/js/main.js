@@ -3,7 +3,7 @@ const loadMoreButton = document.querySelector('#loadMoreButton')
 
 const limit = 10;
 let offset = 0;
-maxRecord = 151;
+maxRecords = 151;
 
 //função pra converter o dado json em uma <li> HTML
 function convertPokemonToLi(pokemon) {
